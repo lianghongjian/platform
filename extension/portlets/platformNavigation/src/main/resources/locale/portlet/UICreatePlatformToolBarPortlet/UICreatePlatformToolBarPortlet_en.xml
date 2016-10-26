@@ -7,7 +7,7 @@
          <event>Event</event>
          <upload>Upload a File</upload>
          <wiki>Wiki Page</wiki>
-
+         <Task>Task</Task>
       </label>
    </UIUserPlatformToolBarCreatePortlet>
    <UICreateList>
