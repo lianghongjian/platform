@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <bundle>
    <UIUserPlatformToolBarCreatePortlet>
       <label>
@@ -7,7 +7,7 @@
          <event>事件</event>
          <upload>上传文件</upload>
          <wiki>维基页面</wiki>
-
+         <Task>任务</Task>
       </label>
    </UIUserPlatformToolBarCreatePortlet>
    <UICreateList>
