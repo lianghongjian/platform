@@ -266,7 +266,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>PollPortlet</string></field>
                       <field name="categoryName"><string>collaboration</string></field>
-                      <field name="displayName"><string>民意调查</string></field>
+                      <field name="displayName"><string>投票</string></field>
                       <field name="description"><string>Polls Portlet</string></field>
                       <field name="type"><string>portlet</string></field>
                       <field name="contentId"><string>poll/PollPortlet</string></field>
