@@ -90,7 +90,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>AccountPortlet</string></field>
                       <field name="categoryName"><string>administration</string></field>
-                      <field name="displayName"><string>新的用户帐户</string></field>
+                      <field name="displayName"><string>新用户帐户</string></field>
                       <field name="description"><string>New User Account</string></field>
                       <field name="type"><string>portlet</string></field>
                       <field name="contentId"><string>exoadmin/AccountPortlet</string></field>
@@ -178,7 +178,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>eXoScriptingConsole</string></field>
                       <field name="categoryName"><string>development</string></field>
-                      <field name="displayName"><string>eXo Groovy 控制台</string></field>
+                      <field name="displayName"><string>eXo控制台</string></field>
                       <field name="description"><string>This console allows scripting eXo API interactively</string></field>
                       <field name="type"><string>gadget</string></field>
                       <field name="contentId"><string>eXoScriptingConsole</string></field>
@@ -238,7 +238,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>Agenda</string></field>
                       <field name="categoryName"><string>collaboration</string></field>
-                      <field name="displayName"><string>议程小工具</string></field>
+                      <field name="displayName"><string>日程小工具</string></field>
                       <field name="description"><string>Tasks and Upcoming Event list.</string></field>
                       <field name="type"><string>gadget</string></field>
                       <field name="contentId"><string>Agenda</string></field>
@@ -382,7 +382,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>LogoPortlet</string></field>
                       <field name="categoryName"><string>content</string></field>
-                      <field name="displayName"><string>简单的标志</string></field>
+                      <field name="displayName"><string>标志</string></field>
                       <field name="description"><string>Logo Portlet</string></field>
                       <field name="type"><string>portlet</string></field>
                       <field name="contentId"><string>web/LogoPortlet</string></field>
@@ -559,7 +559,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>MemoryCharts</string></field>
                       <field name="categoryName"><string>monitoring</string></field>
-                      <field name="displayName"><string>记忆</string></field>
+                      <field name="displayName"><string>储存器</string></field>
                       <field name="description"><string>Memory</string></field>
                       <field name="type"><string>gadget</string></field>
                       <field name="contentId"><string>MemoryCharts</string></field>
@@ -578,7 +578,7 @@
             <description>description</description>
             <object type="org.exoplatform.application.registry.ApplicationCategory">
               <field name="name"><string>Adoption</string></field>
-              <field name="displayName"><string>采用</string></field>
+              <field name="displayName"><string>通过</string></field>
               <field name="description"><string>Applications for adoption</string></field>
               <field name="accessPermissions">
                 <collection type="java.util.ArrayList" item-type="java.lang.String">
@@ -591,7 +591,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>LatestForumPosts</string></field>
                       <field name="categoryName"><string>adoption</string></field>
-                      <field name="displayName"><string>论坛的最近帖子</string></field>
+                      <field name="displayName"><string>论坛最近帖子</string></field>
                       <field name="description"><string>Latest Forum Posts</string></field>
                       <field name="type"><string>gadget</string></field>
                       <field name="contentId"><string>LatestForumPosts</string></field>
@@ -721,7 +721,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>FriendSuggestion</string></field>
                       <field name="categoryName"><string>social</string></field>
-                      <field name="displayName"><string>朋友的建议</string></field>
+                      <field name="displayName"><string>建议</string></field>
                       <field name="description"><string>Friend Suggestions</string></field>
                       <field name="type"><string>gadget</string></field>
                       <field name="contentId"><string>FriendSuggestion</string></field>
@@ -735,7 +735,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>Invitations</string></field>
                       <field name="categoryName"><string>social</string></field>
-                      <field name="displayName"><string>邀请函</string></field>
+                      <field name="displayName"><string>邀请</string></field>
                       <field name="description"><string>Invitations</string></field>
                       <field name="type"><string>gadget</string></field>
                       <field name="contentId"><string>Invitations</string></field>
@@ -777,7 +777,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>NotificationSettingsPortlet</string></field>
                       <field name="categoryName"><string>social</string></field>
-                      <field name="displayName"><string>用户设置的通知</string></field>
+                      <field name="displayName"><string>用户通知设置</string></field>
                       <field name="description"><string>User notification settings portlet.</string></field>
                       <field name="type"><string>portlet</string></field>
                       <field name="contentId"><string>social-juzu/NotificationSettingsPortlet</string></field>
