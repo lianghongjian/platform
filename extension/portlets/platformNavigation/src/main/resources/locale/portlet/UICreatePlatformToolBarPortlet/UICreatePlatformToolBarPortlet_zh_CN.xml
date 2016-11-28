@@ -3,7 +3,7 @@
    <UIUserPlatformToolBarCreatePortlet>
       <label>
          <topic>话题</topic>
-         <poll>民意调查</poll>
+         <poll>添加投票</poll>
          <event>事件</event>
          <upload>上传文件</upload>
          <wiki>维基页面</wiki>
@@ -13,7 +13,7 @@
    <UICreateList>
       <label>
          <topic>话题</topic>
-         <poll>民意调查</poll>
+         <poll>添加投票</poll>
          <CreateANew>创建一个新的 {1}:</CreateANew>
          <NoForum>对不起，无法创建一个{ 1 }的论坛。开始创建自己的空间。</NoForum>
          <RequireSelectForum>请选择一个论坛。</RequireSelectForum>
