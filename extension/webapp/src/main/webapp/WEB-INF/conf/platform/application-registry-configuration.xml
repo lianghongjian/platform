@@ -90,7 +90,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>AccountPortlet</string></field>
                       <field name="categoryName"><string>administration</string></field>
-                      <field name="displayName"><string>新用户帐户</string></field>
+                      <field name="displayName"><string>新用户账户</string></field>
                       <field name="description"><string>New User Account</string></field>
                       <field name="type"><string>portlet</string></field>
                       <field name="contentId"><string>exoadmin/AccountPortlet</string></field>
