@@ -280,7 +280,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>WikiPortlet</string></field>
                       <field name="categoryName"><string>collaboration</string></field>
-                      <field name="displayName"><string>维基</string></field>
+                      <field name="displayName"><string>知识园地</string></field>
                       <field name="description"><string>Wiki Portlet</string></field>
                       <field name="type"><string>portlet</string></field>
                       <field name="contentId"><string>wiki/WikiPortlet</string></field>

@@ -6,7 +6,7 @@
          <poll>添加投票</poll>
          <event>事件</event>
          <upload>上传文件</upload>
-         <wiki>维基页面</wiki>
+         <wiki>知识园地</wiki>
          
       </label>
    </UIUserPlatformToolBarCreatePortlet>
@@ -41,7 +41,7 @@
    </UICreatePoll>
    <UICreateWiki>
       <label>
-         <title>创建一个新的维基页面:</title>
+         <title>创建一个新的知识园地:</title>
          <location>位置</location>
       </label>
    </UICreateWiki>
