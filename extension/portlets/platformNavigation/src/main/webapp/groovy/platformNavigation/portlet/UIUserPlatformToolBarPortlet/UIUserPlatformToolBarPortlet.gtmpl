@@ -45,7 +45,6 @@
     def labellanguage = _ctx.appRes("UIUserPlatformToolBarPortlet.label.language");
     def labellogout = _ctx.appRes("UIUserPlatformToolBarPortlet.label.logout");
     def labelWiki = _ctx.appRes("UIUserPlatformToolBarPortlet.label.wiki");
-    def labelDashboard = _ctx.appRes("UIUserPlatformToolBarPortlet.label.dashboard");
     def labelNotifications = _ctx.appRes("UIUserPlatformToolBarPortlet.label.NotificationSettingsPortlet");
     def remoteUser = Util.getPortalRequestContext().getRemoteUser();
     def activitiesLink = NavigationURLUtils.getURLInCurrentPortal("activities") + "/" + remoteUser;
