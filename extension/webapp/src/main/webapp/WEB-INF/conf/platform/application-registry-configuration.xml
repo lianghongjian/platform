@@ -456,7 +456,7 @@
                     <object type="org.exoplatform.application.registry.Application">
                       <field name="applicationName"><string>FavoriteDocument</string></field>
                       <field name="categoryName"><string>tools</string></field>
-                      <field name="displayName"><string>最喜欢的文件</string></field>
+                      <field name="displayName"><string>我的收藏夹</string></field>
                       <field name="description"><string>Favorite Documents.</string></field>
                       <field name="type"><string>gadget</string></field>
                       <field name="contentId"><string>FavoriteDocument</string></field>
