@@ -7,16 +7,16 @@
          <Content>内容</Content>
          <Editor>编辑</Editor>
          <Page>页面</Page>
-         <Site>站点</Site>
+         <Site>网站</Site>
          <Layout>编辑布局</Layout>
          <siteLayout>布局</siteLayout>
          <ManagePages>管理页面</ManagePages>
-         <GroupSite>群组站点</GroupSite>
+         <GroupSite>群组网页</GroupSite>
          <Properties>#{UISEOToolbarForm.label.seo}</Properties>
          <AddSite>添加站点</AddSite>
       </action>
-<ManageSites>管理站点</ManageSites>
-<ManageGroupSites>管理组站点</ManageGroupSites>
+<ManageSites>管理网站</ManageSites>
+<ManageGroupSites>管理组网站</ManageGroupSites>
    </UIAdminToolbarPortlet>
 
   <UISEOForm>
@@ -27,7 +27,7 @@
       <language>语言：</language>
       <robots>机器人：</robots>
       <sitemap>网站地图：</sitemap>
-      <sitemapvisible>在站点地图中可见</sitemapvisible>
+      <sitemapvisible>在网页地图中可见</sitemapvisible>
   <isInherited>继承自父页</isInherited>
       <priority>优先级：</priority>
       <frequency>频率：</frequency>
