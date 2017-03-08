@@ -13,7 +13,7 @@
          <ManagePages>管理页面</ManagePages>
          <GroupSite>群组网页</GroupSite>
          <Properties>#{UISEOToolbarForm.label.seo}</Properties>
-         <AddSite>添加站点</AddSite>
+         <AddSite>添加网站</AddSite>
       </action>
 <ManageSites>管理网站</ManageSites>
 <ManageGroupSites>管理组网站</ManageGroupSites>
