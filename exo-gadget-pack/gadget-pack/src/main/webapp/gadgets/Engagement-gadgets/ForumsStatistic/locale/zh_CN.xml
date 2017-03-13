@@ -31,8 +31,8 @@
   <msg name="forums.statistic.at">在</msg>  
   <msg name="forums.weekly.statistic.title">论坛每周统计</msg>
   <msg name="forums.weekly.statistic.post.open">创建日期</msg>
-  <msg name="forums.weekly.statistic.next">下一个</msg>
-  <msg name="forums.weekly.statistic.prev">上一个</msg>
+  <msg name="forums.weekly.statistic.next">下一页</msg>
+  <msg name="forums.weekly.statistic.prev">上一页</msg>
   <msg name="forums.weekly.statistic.view.chart">以图表的形式查看</msg>
   <msg name="forums.weekly.statistic.view.list">以列表的形式查看</msg>
   <msg name="forums.statistic.see.total.statistic">全局统计数据</msg>
