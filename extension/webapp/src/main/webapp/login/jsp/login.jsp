@@ -56,7 +56,7 @@
 
   SkinService skinService = (SkinService) PortalContainer.getCurrentInstance(session.getServletContext())
                           .getComponentInstanceOfType(SkinService.class);
-  String loginCssPath = skinService.getSkin("portal/login", "Default").getCSSPath();
+  String loginCssPath = skinService.getSkin("portal/login", "GreenSkin").getCSSPath();
 
   PasswordRecoveryService passRecoveryServ = portalContainer.getComponentInstanceOfType(PasswordRecoveryService.class);
   String forgotPasswordPath = passRecoveryServ.getPasswordRecoverURL(null, null);
