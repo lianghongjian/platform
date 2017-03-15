@@ -36,8 +36,8 @@
     SkinService skinService = PortalContainer.getCurrentInstance(session.getServletContext())
             .getComponentInstanceOfType(SkinService.class);
 
-    Collection<SkinConfig> skins = skinService.getPortalSkins("Default");
-    String loginCssPath = skinService.getSkin("portal/login", "Default").getCSSPath();
+    Collection<SkinConfig> skins = skinService.getPortalSkins("GreenSkin");
+    String loginCssPath = skinService.getSkin("portal/login", "GreenSkin").getCSSPath();
 
     User portalUser = (User)request.getAttribute("portalUser");
     User detectedUser = (User)request.getAttribute("detectedUser");
