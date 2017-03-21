@@ -23,7 +23,7 @@
   <msg name="title">最喜歡的文件</msg>
   <msg name="titleFav">我的最愛</msg>
   <msg name="titleDoc">我的文件</msg>  
-  <msg name="nofav">你沒有最喜歡的文件</msg>
-  <msg name="nodoc">你沒有文件</msg>
+  <msg name="nofav">您沒有最喜歡的文件</msg>
+  <msg name="nodoc">您沒有文件</msg>
   <msg name="showall">全部顯示</msg>
 </messagebundle>

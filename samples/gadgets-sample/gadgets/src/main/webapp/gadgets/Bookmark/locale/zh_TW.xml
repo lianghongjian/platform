@@ -30,6 +30,6 @@
   <msg name="delete">刪除</msg>
   <msg name="edit">編輯</msg>
   <msg name="cancel">取消</msg>
-  <msg name="emptyBookmarkPre">你沒有任何的書籤。通過點擊"新增書籤"按鈕增加它們。</msg>
+  <msg name="emptyBookmarkPre">您沒有任何的書籤。通過點擊"新增書籤"按鈕增加它們。</msg>
   <msg name="addBookmark">新增書籤</msg>
 </messagebundle>

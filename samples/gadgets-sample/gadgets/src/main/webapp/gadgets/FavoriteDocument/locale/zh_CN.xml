@@ -24,6 +24,6 @@
   <msg name="titleFav">我的收藏夹</msg>
   <msg name="titleDoc">我的文档</msg>  
   <msg name="nofav">收藏夹为空</msg>
-  <msg name="nodoc">你没有收藏文档</msg>
+  <msg name="nodoc">您没有收藏文档</msg>
   <msg name="showall">显示全部</msg>
 </messagebundle>

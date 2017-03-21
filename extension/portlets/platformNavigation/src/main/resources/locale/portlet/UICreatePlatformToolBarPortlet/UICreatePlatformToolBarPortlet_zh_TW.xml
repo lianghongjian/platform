@@ -15,7 +15,7 @@
          <topic>主題</topic>
          <poll>投票</poll>
          <CreateANew>建立一個新 {1}：</CreateANew>
-         <NoForum>對不起，沒有論壇，還可新建 {1}。首先建立你自己的空間。</NoForum>
+         <NoForum>對不起，沒有論壇，還可新建 {1}。首先建立您自己的空間。</NoForum>
          <RequireSelectForum>請選擇一個論壇。</RequireSelectForum>
       </label>
       <action>
