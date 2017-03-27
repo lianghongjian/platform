@@ -919,7 +919,7 @@
                     </preference>
                     <preference>
                         <name>driveName</name>
-                        <value>Personal Documents</value>
+                        <value>个人文档</value>
                         <read-only>false</read-only>
                     </preference>
                     <preference>

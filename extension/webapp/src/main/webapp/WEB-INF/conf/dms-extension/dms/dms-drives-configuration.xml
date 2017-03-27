@@ -85,10 +85,10 @@
           </object-param>
 								
           <object-param>
-            <name>Personal Documents</name>
-            <description>Personal Documents</description>
+            <name>????</name>
+            <description>????</description>
             <object type="org.exoplatform.services.cms.drives.DriveData">
-              <field  name="name"><string>Personal Documents</string></field>
+              <field  name="name"><string>????</string></field>
               <field  name="workspace"><string>collaboration</string></field>
               <field  name="permissions"><string>*:/platform/users</string></field>
               <field  name="homePath"><string>/Users/${userId}/Private</string></field>
